@@ -1,0 +1,7 @@
+station,band,mission,channels,sweeps,period_s,samples_M
+R,band III,rRD_02,225,31064,12.0,6.989405
+R,FM,rFM_04,207,696,,0.144072
+K,band III,KRd001,225,598,3599.0,0.13455
+K,FM,KFM001,207,577,,0.119439
+Y,band III,Yrd_00,225,374,3599.0,0.084149
+Y,FM,Yfm_01,301,374,,0.112574

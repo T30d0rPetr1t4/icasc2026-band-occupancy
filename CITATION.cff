@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper below."
+title: "A Statistical Computing Pipeline for Band Occupancy and Spurious-Emission Classification from Radio Monitoring Archives"
+authors:
+  - family-names: Petrița
+    given-names: Teodor
+    affiliation: "Politehnica University of Timișoara"
+  - family-names: Dobre-Baron
+    given-names: Rareș
+    affiliation: "Politehnica University of Timișoara"
+year: 2026
+conference:
+  name: "International Conference on Advanced Scientific Computing (ICASC 2026)"
+  location: "Cluj-Napoca, Romania"
+repository-code: "https://github.com/T30d0rPetr1t4/icasc2026-band-occupancy"
